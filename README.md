@@ -85,7 +85,7 @@ php artisan migrate//update database
 //It has creatting other column in table
 php artisan make:migration add_date_to_events_table
 
-//If case to need (jetstrem/liveware) in Laravel
+//If case to need (jetstrem/liveware) in Laravel: Login with password: authentication
 clear//Command to clear the terminal
 
 composer require laravel/jetstream
