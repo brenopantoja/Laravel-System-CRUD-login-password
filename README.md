@@ -5,7 +5,7 @@ Read me:
 
 Data Base has creating with name: pengenharia, if case change in file env.
 
-The system has all, login password and, it is able user to create a account.
+The system has all, login password and (jetstrem/liveware) in Laravel: authentication, it is able user to create a account.
 
 Also It has Creation, Read, Update, Delete (CRUD) tables and with join between them.
 
