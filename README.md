@@ -11,7 +11,7 @@ Also It has Creation, Read, Update, Delete (CRUD) tables and with join between t
 
 It is a system of events.
 
-Downloads: It does download of the Xampp, MySQL and of the Visual Studio Core.
+Downloads: It does download of the Xampp, MySQL and  the Visual Studio Core.
 
 Note: Page called showcopy.php has been better, in relation tables of HTML. And, the layout of the page too.
 
