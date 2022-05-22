@@ -14,7 +14,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('daily_log', function (Blueprint $table) {
+
             $table->id();
+            $table->foreignId('user_id')->constraind()->index () ;
+            $table -> text('log');
+            $table -> date('day');
+
             $table->timestamps();
         });
     }
